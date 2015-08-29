@@ -28,6 +28,12 @@ int main(int argc, const char * argv[])
         
         CherryManager *cherryManager = [[CherryManager alloc] init];
         
+        DeliveryService *deliveryService = [[DeliveryService alloc] init];
+        
+        [manager setDeliveryService:deliveryService];
+        
+        [cherryManager setDeliveryService:deliveryService];
+        
         while (TRUE) {
             // Loop forever
             NSString *inputString = userInput();

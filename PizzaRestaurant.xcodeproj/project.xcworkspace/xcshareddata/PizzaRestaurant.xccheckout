@@ -12,22 +12,34 @@
 	<dict>
 		<key>5C0877050C14B380B2F97B4469692D0FA19B9827</key>
 		<string>https://github.com/Kanjiviva/iOS-Student-PizzaRestaurant</string>
+		<key>CF0A77B7DC250863B3E8710213B6720CD3A7BA8A</key>
+		<string>https://github.com/Kanjiviva/A-Pizza-Restaurant.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>PizzaRestaurant.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5C0877050C14B380B2F97B4469692D0FA19B9827</key>
+		<string>../../../iOS-Student-PizzaRestaurant</string>
+		<key>CF0A77B7DC250863B3E8710213B6720CD3A7BA8A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Kanjiviva/iOS-Student-PizzaRestaurant</string>
+	<string>https://github.com/Kanjiviva/A-Pizza-Restaurant.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5C0877050C14B380B2F97B4469692D0FA19B9827</string>
+	<string>CF0A77B7DC250863B3E8710213B6720CD3A7BA8A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF0A77B7DC250863B3E8710213B6720CD3A7BA8A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>A-Pizza-Restaurant</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
